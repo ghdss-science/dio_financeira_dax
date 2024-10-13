@@ -1,0 +1,264 @@
+id,Customers_Country_2f_Region,Customers_Name,Customers_City,Customers_Postal_20_Code,Customers_State_20_Code
+0,AU,AEQ,Macquarie,2113.0,NSW
+1,AU,OSI Australia,Sydney,2000.0,NSW
+12,US,123 Warehousing,Chicago,60602.0,IL
+13,US,A Dog's Staff,Mason,45040.0,OH
+14,US,ABC Helicopter,Fort Worth,76177.0,TX
+15,US,ABC Telecom,Richardson,75080.0,TX
+16,US,ABISCAS LTD,Canonsburg,15317.0,PA
+17,US,Acme Corp,Princeton,8540.0,NJ
+18,US,"Acme, inc.",Novato,94549.0,CA
+19,US,Addrenaline,Atlanta,30322.0,GA
+21,US,American Trust Bank,Charlotte,28255.0,NC
+22,US,Analyze This LP,Montvale,7645.0,NJ
+24,US,Ansofini LLC,Bridgewater,8807.0,NJ
+25,US,AppleBoys,Foster City,94404.0,CA
+27,US,Atlantic Northern,Houston,77098.0,TX
+28,US,Austin Music Club,Plano,75086.0,TX
+29,US,Avariana LTD,Seattle,98101.0,WA
+30,US,Axis Chemical Co.,San Jose,95138.0,CA
+31,US,Bad Brother LLC,Plano,75024.0,TX
+32,US,Bahlli Consulting,St. Paul,55117.0,MN
+33,US,"Battan, LLC",Vienna,22182.0,VA
+34,US,Big T Burgers and Fries,DALLAS,75244.0,TX
+35,US,BINI Pharmaceutical,Columbia,29203.0,SC
+37,US,Blades,Reston,20190.0,VA
+38,US,Blammo,DALLAS,75234.0,TX
+39,US,Blue Moons Inn,Phoenix,85016.0,AZ
+40,US,Botta,Waukegan,60085.0,IL
+41,US,Bright Chem LLP,Cincinnati,45232.0,OH
+42,US,Bueno Gallo Inc,Wheaton,60187.0,IL
+43,US,Bullseye,Minneapolis,55403.0,MN
+44,US,Bully Sports,Irving,75038.0,TX
+46,US,C.H. Lavatory and Sons,Houston,77010.0,TX
+47,US,Cadams USA,EI Paso,79998.0,TX
+48,US,CAKS,Anchorage,99503.0,AK
+49,US,CAKS Local Services,Fairfax,22031.0,VA
+50,US,California Chems Co.,Jacksonville,32246.0,FL
+52,US,Car Grills LLC,Hopkins,55343.0,MN
+53,US,Carsy and Lime,Charlotte,28281.0,NC
+54,US,Castem Co,Philadelphia,19103.0,PA
+55,US,Cavanet,Phoenix,85034.0,AZ
+56,US,CCD Bottling Co,Charlotte,28211.0,NC
+57,US,CCP Lips,Bartlesville,74003.0,OK
+58,US,Central Perk,Issaquah,98029.0,WA
+59,US,CFD Doubleton,Houston,77056.0,TX
+60,US,Charles Townsend Agency,Orlando,32825.0,FL
+61,US,Chasers,Milwaukee,53208.0,WI
+63,US,Chevy's in Texas,Walnut Creek,94597.0,CA
+64,US,Chez Quis,Sunnyvale,94086.0,CA
+65,US,Chonic Pain Foundation,Los Angeles,90028.0,CA
+66,US,Chotchkies,OKC,73102.0,OK
+68,US,Cities of  Virginia,Richmond,23219.0,VA
+69,US,City of Springfield,Brooklyn,11201.0,NY
+70,US,City of Springfield,San Diego,92101.0,CA
+71,US,Clinton's Rub LP,Trevose,19053.0,PA
+72,US,Cogswell Cogs,Santa Ana,92705.0,CA
+73,US,Coinstellations,Bellevue,98004.0,WA
+74,US,COMP DDK,Islandia,11749.0,NY
+75,US,Company Windows,Lanham,20786.0,MD
+76,US,Compuglobalhypermeganet,New York,10167.0,NY
+77,US,Connect the Chain Inc,Indianapolis,46225.0,IN
+78,US,Corrigan and Partners,DALLAS,75247.0,TX
+79,US,Cosico Sun,San Jose,95134.0,CA
+80,US,Costa Costa in Country,Martinez,94553.0,CA
+81,US,Creek and Company,Waupaca,54981.0,WI
+82,US,Dan's Food Co.,DALLAS,75202.0,TX
+84,US,Data Systems,Chicago,60601.0,IL
+85,US,Demo Company,Juno Beach,11111.0,FL
+86,US,"Demo, inc.",Plymouth,48170.0,MI
+87,US,Denver Trans,Denver,80222.0,CO
+88,US,Devon Energy,Oklahoma City,73102.0,OK
+89,US,DND,Irving,75038.0,TX
+90,US,DND,Irving,75063.0,TX
+91,US,DONOTUSE - TrotterTires,Findlay,14205.0,OH
+93,US,Dunder Mifflin,New York,10017.0,NY
+94,US,EBU Energy,Alkexandria,22310.0,VA
+95,US,EBU Ideals,Battlecreek,49017.0,MI
+96,US,EBU Technology,Alexandria,22310.0,VA
+97,US,Extensive Enterprise,Greensboro,27410.0,NC
+98,US,FABS Constructing,Southfield,48033.0,MI
+99,US,Fake Brothers,Juno Beach,33408.0,FL
+100,US,Flamingo Consulting,Torrance,90505.0,CA
+101,US,Flip the Page LLC,Miamisburg,45342.0,OH
+102,US,Flowers By Irene,Pittsburgh,15222.0,PA
+103,US,Foo Bars,St Louis,63102.0,MO
+104,US,Gadgetron,Omaha,68131.0,NE
+105,US,Galaxy Corp,Greensboro,27410.0,NC
+106,US,GAM Neuro,South Bend,46617.0,IN
+107,US,Gauge Metrics,New York,10004.0,NY
+108,US,GCI,Richmond,23219.0,VA
+111,US,GHG,Plano,75024.0,TX
+112,US,Global Computing,Reston,20190.0,VA
+113,US,Globex Corporation,Reston,20190.0,VA
+114,US,Globo Gym American Corp,Houston,77010.0,TX
+115,US,Globo-Chem,Chicago,60601.0,IL
+116,US,Gokart,San Martin,95046.0,CA
+117,US,Grenteris,Billerica,1821.0,MA
+118,US,Gringotts,Novi,48377.0,MI
+120,US,Helix LLC,Lisle,60532.0,IL
+121,US,Help me See LLC,Mason,45040.0,OH
+122,US,Hooper Tires,Findlay,45840.0,OH
+123,US,Horn BPO,Fremont,94555.0,TX
+124,US,Hunter and Hunter,San Antonio,78204.0,TX
+125,US,Identities Born LLC,Riverside,92507.0,CA
+126,US,Industrial Automation,The Woodlands,77380.0,TX
+127,US,Initech,Chicago,60633.0,IL
+128,US,Initrode,Melville,11747.0,NY
+129,US,Interstate Services,Northbrook,60062.0,IL
+130,US,Jobargo,St Louis,63114.0,MO
+131,US,"Jump Off It, N.A.",St. Louis,63146.0,MO
+132,US,Katy,Sanford,27332.0,NC
+134,US,Kings Group,Spokane,99224.0,WA
+136,US,Klimpys,Plano,75024.0,TX
+138,US,KON/PLD,Chicago,60601.0,IL
+139,US,Korman Partners,Chandler,85248.0,AZ
+141,US,Korsici,Stratford,6615.0,CT
+143,US,Kumatsu Motors,Morristown,7960.0,NJ
+145,US,Label Solutions,Fort Pierce,34982.0,FL
+147,US,LKLLD,Overland Park,66213.0,KS
+149,US,Lovelling Inc,Fort Lee,7024.0,NJ
+150,US,MAD Company,"Decatur,",62523.0,IL
+152,US,Mainway Toys,Portland,97209.0,OR
+153,US,Mammoth Pictures,Kansas City,64101.0,MO
+154,US,Mary Begs Co,Reston,20190.0,VA
+155,US,Mauve Ware,Palo Alto,94304.0,CA
+156,US,McLittle Consulting Co,Pittsburgh,15222.0,PA
+157,US,McMahon and Tate,New York City,10018.0,NY
+158,US,MECM,Scarsdale,10583.0,NY
+159,US,Megadodo Publications,Irving,75038.0,TX
+160,US,Metratrack,Reston,20190.0,VA
+161,US,Mexerbio,Durham,27712.0,NC
+163,US,Millenium Hooks,Monroe,71203.0,LA
+164,US,Milliways,Miami Beach,33139.0,FL
+165,US,Minuteman Cafe,Miami Beach,33139.0,FL
+166,US,Mits Power,Orlando,32809.0,FL
+167,US,MOKATO,Joplin,64801.0,MO
+168,US,Momentum,Columbus,43215.0,OH
+169,US,Monks Diner,Evansville,47721.0,IN
+170,US,Mooby Corp,Menomonee Falls,53051.0,WI
+171,US,Musion and Phillips,Pittsburgh,15222.0,PA
+172,US,National UNTC,New York,11203.0,NY
+173,US,Nerve Company,Newport Beach,92660.0,CA
+174,US,Nevali Group,DALLAS,75254.0,TX
+175,US,Neward and Benson,Richmond,23219.0,VA
+176,US,Neworth Boards,Greenwood Village,80111.0,CO
+177,US,Niagular,Bethesda,20817.0,MD
+178,US,Nice Guys Services,Schaumberg,60173.0,IL
+179,US,Niger National,Southlake,76092.0,TX
+180,US,Noca Gas,Irving,75063.0,TX
+181,US,Numivia,Irving,75039.0,TX
+183,US,NYT Troupe,New York,10018.0,NY
+184,US,ONESYNE Labs LP,Alexandria,22314.0,VA
+185,US,ONJI LTD,St Louis,63146.0,MO
+186,US,Opal Enterprises,Burlington,1803.0,MA
+188,US,Osato Chemicals,Pittsburgh,15222.0,PA
+189,US,Pac Underwater Drilling,Omaha,68179.0,NE
+190,US,PacWaters Drifting,Houston,77056.0,TX
+191,US,Parrots and Peacocks,Canonsburg,15317.0,PA
+192,US,Pavel School District,Jacksonville,32207.0,FL
+193,US,PDP,Falls Church,22042.0,VA
+194,US,Perception LP,AAAAAAA,11111.0,TX
+195,US,Petrox Oil Company,Uxbridge,1569.0,MA
+197,US,Pheonix Rails,Forth Worth,76131.0,TX
+199,US,Philo Projects,"Lakewood Ranch, Sarasota",34240.0,FL
+202,US,Pleggios,Henderson,89074.0,NV
+203,US,Pompusili,Center Valley,18034.0,PA
+204,US,PonDeMon,Wilmington,19805.0,DE
+205,US,Ports of the NorthEast,Jersey City,7302.0,NJ
+206,US,Postal Wash,Washington DC,20071.0,VA
+208,US,Powell Motors,DALLAS,75201.0,TX
+209,US,PPB Bracks,Philadelphia,19103.0,PA
+210,US,Present Networks,Ridgeland,39157.0,MS
+211,US,Processes Inc,Foster City,94404.0,CA
+212,US,ProStaffing,Plano,75024.0,TX
+213,US,Protecting the Border,Washington,20229.0,DC
+214,US,PTC,Skillman,8558.0,NJ
+215,US,QWERTY Logistics,AAAAAAA,11111.0,TX
+216,US,Raleigh Resources,Raleigh,27612.0,NC
+218,US,Resource Development,Alpharetta,30005.0,GA
+219,US,REY REY LP,Winston-Salem,27101.0,NC
+220,US,Rimmion Runners,Richmond,23220.0,VA
+221,US,Rivisult,Temple,85281.0,AZ
+223,US,Rouster and Sideways,Mason,45040.0,OH
+224,US,Roxxon,Denver,80203.0,CO
+226,US,Sallbet Consultants,Naperville,60563.0,IL
+227,US,Sample Company,Valhalla,10595.0,NY
+228,US,"Sample, inc",Plano,75024.0,TX
+229,US,Scarcoft,New Orleans,70129.0,LA
+230,US,SCCA County,San Jose,95110.0,CA
+231,US,Scoila Inc,Friedens,15541.0,PA
+232,US,Scornette Group,Greenville,29615.0,SC
+233,US,Scunder Consulting,Santa Clara,95051.0,CA
+234,US,SDI Design,Denver,80222.0,CO
+235,US,SeaShell Oil Cleanup,Houston,77002.0,TX
+236,US,Seashore Systems,Arlington,22203.0,VA
+237,US,Selement,Tarrytown,10591.0,NY
+238,US,Sharper Bends,Alexandria,22302.0,VA
+239,US,Simbici LLC,Pittsfield,1201.0,MA
+240,US,Sips,Chicago,11111.0,IL
+241,US,Sips,Plano,75024.0,TX
+242,US,Sixty Second Avenue,Columbus,43230.0,OH
+243,US,"Skirpa, Skirpa and Skirpa",Overland Park,66213.0,KS
+244,US,Smith and Co.,Juno Beach,33408.0,FL
+245,US,Snapper Turtles,Plano,75024.0,TX
+246,US,SNC Directly to America,Westchester,60154.0,IL
+247,US,SNC Downers Grove,Downers Grove,60515.0,IL
+248,US,SNC Downers Grove,Downers Grove,60515.0,NE
+249,US,SNC Path,Newton Square,19073.0,PA
+250,US,SNC Public,North Tower,20004.0,DC
+251,US,SNC Sydney,Canberra ACT,75012.0,TX
+252,US,SNC Sydney,Irving,75038.0,TX
+254,US,Soneli Graphics,Fremont,94538.0,CA
+255,US,Sonky Rubber Goods,Battle Creek,49017.0,MI
+256,US,SONO Shoes,Sanata Monica,90404.0,CA
+257,US,Sourced Out,Chestbrook,19087.0,PA
+258,US,Spade and Archer,Irving,75038.0,TX
+259,US,SpringShield,Iselin,8830.0,NJ
+260,US,"Spurly, Spurly and Spurly",Washington,20004.0,DC
+261,US,Square and Circle Pharma,San Diego,92127.0,CA
+262,US,St. Anky Beer,Latrobe,15650.0,PA
+263,US,Stilts and Shots,Tucson,85706.0,AZ
+264,US,Straza Astena,Wilmington,19850.0,DE
+265,US,Strong Land Co.,St. Louis,63105.0,MO
+266,US,Sunny Waters,West Palm Beach,33406.0,FL
+268,US,Swirva,Reston,20190.0,VA
+269,US,Taggart Transcontinental,Corte Madera,94925.0,CA
+270,US,Teckman,Mt. View,94035.0,CA
+271,US,Tessier-Ashpool,DALLAS,75254.0,TX
+272,US,Tetris Group,Denton,76207.0,TX
+273,US,Thatherton Fuels,Pittsburgh,15222.0,PA
+274,US,The Frying Dutchman,Oklahoma City,73102.0,OK
+275,US,The Krusty Krab,Sacramento,95816.0,CA
+276,US,The Legitimate Businessmens Club,Pittsburgh,15222.0,PA
+277,US,The New Firm,Orlando,32801.0,FL
+278,US,Therapy Group,Silver Spring,20910.0,MD
+279,US,Tip Top Cafe,Atchison,66002.0,KS
+280,US,Transworld Consortium,Hershey,17033.0,PA
+281,US,Trees and Bushes LTD,St. Louis,63124.0,MO
+282,US,TRP Corp,Palm Beach Gardens,33410.0,FL
+283,US,True Chems LLC,Middlebury,6749.0,CT
+284,US,Truliant,Richmond,23230.0,VA
+285,US,Turning and Lender,Woodcliff Lake,7677.0,NJ
+286,US,Ugen LLC,New York,10105.0,NY
+288,US,ULTRA Undertakings,Bolingbrook,60440.0,IL
+289,US,Uncle Joey's Café,Monrovia,91016.0,CA
+290,US,Under the Bridge,AAAAAAA,11111.0,TX
+291,US,Universal Export,Hershey,17033.0,PA
+292,US,Valinik,San Diego,92121.0,CA
+293,US,Vandelay Industries,Omaha,68131.0,NE
+295,US,Venkman Co,Powhatan Point,43942.0,OH
+296,US,Venting Systems,DALLAS,75211.0,TX
+297,US,Vertigo Systems,Indianapolis,46204.0,IN
+299,US,Water and Power,Houston,77072.0,TX
+300,US,Wayne Enterprises,Florham Park,7005.0,NJ
+301,US,Wentworth Industries,Lehigh Valley,18002.0,PA
+302,US,Wernham Hogg,Omaha,68131.0,NE
+303,US,Western Landscaping,Hershey,17033.0,PA
+304,US,Whipple LP,Benton Harbor,49022.0,MI
+305,US,Widget Corp,Perrysburg,43551.0,OH
+306,US,WOLK Works,Reston,20190.0,VA
+307,US,WOWKOW,Saginaw,48603.0,MI
+308,US,XIXI,Richmond,23220.0,VA
+309,US,ZiffCorp,Troy,48098.0,MI
+311,US,Ziffer Chemicals,Frazer,19355.0,PA
