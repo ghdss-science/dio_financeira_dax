@@ -85,3 +85,5 @@ A sensação de lentidão no progresso e a frustração com resultados que não 
 ```
 
 ## Visualização do Projeto - Power BI 
+
+-[Dashboard Financeiro Simples](https://youtu.be/ojsPAqGt8t4) 
